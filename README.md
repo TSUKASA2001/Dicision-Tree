@@ -1,7 +1,8 @@
 # Dicision-Tree
-離散値を取るデータから決定木を構築するプログラムです。
+A program that builds a decision tree from data that takes discrete values.
 
-実行するとメモリ上に値が格納されます。
+When ran, the value is stored in memory.
 
 # Usage
-javaを実行できる環境下で実行してください。
+
+Please run in an environment where java can be ran.
