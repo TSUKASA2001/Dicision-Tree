@@ -1,5 +1,5 @@
 # Dicision-Tree
-A program that builds a decision tree from data that takes discrete feature and categorical feature.
+A program that builds a decision tree from data that takes categorical feature.
 
 When ran, the value is stored in memory.
 
